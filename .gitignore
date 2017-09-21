@@ -1,0 +1,9 @@
+# no conf.* files
+conf.py
+
+# no *.pyc files
+*.pyc
+*.py_bac
+
+# no *.pyc files
+*.swp
